@@ -30,9 +30,9 @@ A Gradio web interface allows users to enter customer information and receive:
 - Churn prediction
 - Churn probability
 
-![Gradio App 1](assets\Screenshot 2026-08-23 132704.png)
+![Gradio App 1](assets/Screenshot 2026-08-23 132704.png)
 
-![Gradio App 2](assets\Screenshot 2026-08-23 132757.png)
+![Gradio App 2](assets/Screenshot 2026-08-23 132757.png)
 
 ## Project Structure
 
