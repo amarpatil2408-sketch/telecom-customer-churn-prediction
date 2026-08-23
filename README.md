@@ -30,6 +30,10 @@ A Gradio web interface allows users to enter customer information and receive:
 - Churn prediction
 - Churn probability
 
+![Gradio App 1](assets/gradio-app-1.png)
+
+![Gradio App 2](assets/gradio-app-2.png)
+
 ## Project Structure
 
 - `analysis.ipynb` — Data analysis, preprocessing, model training and evaluation
